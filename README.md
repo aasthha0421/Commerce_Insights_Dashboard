@@ -5,7 +5,7 @@ A full analytical dashboard designed to reflect the type of work produced in a c
 This dashboard combines customer behaviour analysis, competitive benchmarking, profitability modelling and market expansion assessment into one clear, interactive platform.
 ## 📸 Dashboard Preview
 
-![QuickCommerce Dashboard](./Screenshot (293).png)
+![QuickCommerce Dashboard](./Screenshot%20(293).png)
 ---
 
 ## 🚀 Features
