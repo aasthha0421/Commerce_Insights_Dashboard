@@ -3,7 +3,9 @@
 A full analytical dashboard designed to reflect the type of work produced in a consulting environment, especially within Bain’s Capability Network. The project investigates why a quick-commerce company is losing customer retention, how competitors are outperforming it, and where the strongest opportunities for profitable growth lie.
 
 This dashboard combines customer behaviour analysis, competitive benchmarking, profitability modelling and market expansion assessment into one clear, interactive platform.
+## 📸 Dashboard Preview
 
+![QuickCommerce Dashboard](./Screenshot (293).png)
 ---
 
 ## 🚀 Features
@@ -47,6 +49,6 @@ Summarises four prioritised actions focused on improving retention, reducing dis
 
 ---
 
-## 📁 Folder Structure
+
 
 
